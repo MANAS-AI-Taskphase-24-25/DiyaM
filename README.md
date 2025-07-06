@@ -17,26 +17,25 @@ Each project includes:
 
 ## Folder Structure
 
-DiyaM/
-├── linear_reg/
-│ ├── train.csv
-│ ├── test.csv
-│ └── task2_0_linearregression.ipynb
-│
-├── logistic_reg/
-│ ├── Freyja_Pumpkins-test.csv
-│ ├── Gotem_Pumpkins-train.csv
-│ └── task2_1_logisticregression.ipynb
-│
-├── decision_trees/
-│ ├── Threats (1).csv
-│ └── task3_2_Decision_trees.ipynb
-│
-├── clustering/
-│ ├── Clustering_Data.csv
-│ └── task3_0_clustering.ipynb
-│
-└── README.md
+- `linear_reg/`
+  - `train.csv`
+  - `test.csv`
+  - `task2_0_linearregression.ipynb`
+
+- `logistic_reg/`
+  - `Freyja_Pumpkins-test.csv`
+  - `Gotem_Pumpkins-train.csv`
+  - `task2_1_logisticregression.ipynb`
+
+- `decision_trees/`
+  - `Threats (1).csv`
+  - `task3_2_Decision_trees.ipynb`
+
+- `clustering/`
+  - `Clustering_Data.csv`
+  - `task3_0_clustering.ipynb`
+
+- `README.md`
 
 ## Tools & Libraries Used
 
